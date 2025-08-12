@@ -1,0 +1,1 @@
+    return {"message": f"NFT shared on {platform}", "url": share_url} main:app --reload
