@@ -1,10 +1,7 @@
-# LR Records - Music NFT Platform
+# LRRecords - Music NFT Platform
 
 A complete full-stack Music NFT SaaS application built for musicians, producers, and fans. This platform allows artists to mint their music as NFTs on the Polygon blockchain and provides fans with a beautiful interface to discover and collect music NFTs.
 
-## 🎵 Live Demo
-
-**Current Live Version:** https://5000-i4tpl4q5adrl34chyrwss-baaf1f7c.manusvm.computer
 
 ## 📁 Project Structure
 
